@@ -2,20 +2,37 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "doing more, with less",
     "description": "",
-    "home_page_url": "https://demyelination.github.io/dmwl",
-    "feed_url": "https://demyelination.github.io/dmwl/feed.json",
+    "home_page_url": "https://dmwl.isimian.com",
+    "feed_url": "https://dmwl.isimian.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Jack"
     },
     "items": [
         {
-            "id": "https://demyelination.github.io/dmwl/discounted-internet-access.html",
-            "url": "https://demyelination.github.io/dmwl/discounted-internet-access.html",
+            "id": "https://dmwl.isimian.com/medicare-explained.html",
+            "url": "https://dmwl.isimian.com/medicare-explained.html",
+            "title": "Medicare Explained",
+            "summary": "There are so many resoures available to disabled folks, but Medicare is one that should get special attention. The outline&hellip;",
+            "content_html": "<p>There are so many resoures available to disabled folks, but Medicare is one that should get special attention.  </p>\n<p>The outline of the system is well covered on Wikipedia</p>\n<p><a href=\"https://en.wikipedia.org/wiki/Medicare_(United_States)\">https://en.wikipedia.org/wiki/Medicare_(United_States)</a></p>\n<p>Here is a video explainer that outlines the different plans and how to qualify.</p>\n<p><a href=\"https://www.youtube.com/watch?v=HgCP0uQmuRw\">https://www.youtube.com/watch?v=HgCP0uQmuRw</a></p>\n",
+            "image": "https://dmwl.isimian.com/media/posts/8/index.png",
+            "author": {
+                "name": "Jack"
+            },
+            "tags": [
+                   "medicare",
+                   "gethelp"
+            ],
+            "date_published": "2022-08-07T19:46:55-07:00",
+            "date_modified": "2022-08-07T19:47:20-07:00"
+        },
+        {
+            "id": "https://dmwl.isimian.com/discounted-internet-access.html",
+            "url": "https://dmwl.isimian.com/discounted-internet-access.html",
             "title": "Discounted Internet Access",
             "summary": "The Affordable Connectivity Program is an FCC benefit program that helps ensure that households can afford the broadband they need&hellip;",
             "content_html": "<p>The Affordable Connectivity Program is an FCC benefit program that helps ensure that households can afford the broadband they need for work, school, healthcare and more.</p>\n<p>Check this link to see if you qualify for discounted internet access.</p>\n<p><a href=\"https://www.fcc.gov/acp\">https://www.fcc.gov/acp</a></p>\n",
-            "image": "https://demyelination.github.io/dmwl/media/posts/7/fcc-seal-rgb-2020.svg",
+            "image": "https://dmwl.isimian.com/media/posts/7/fcc-seal-rgb-2020.svg",
             "author": {
                 "name": "Jack"
             },
@@ -23,15 +40,15 @@
                    "discounts"
             ],
             "date_published": "2022-08-07T12:47:49-07:00",
-            "date_modified": "2022-08-07T12:54:54-07:00"
+            "date_modified": "2022-08-07T17:35:15-07:00"
         },
         {
-            "id": "https://demyelination.github.io/dmwl/social-security.html",
-            "url": "https://demyelination.github.io/dmwl/social-security.html",
+            "id": "https://dmwl.isimian.com/social-security.html",
+            "url": "https://dmwl.isimian.com/social-security.html",
             "title": "Social Security",
             "summary": "The United States Social Security System is over 100 years old, and has been altered many on many occasions to&hellip;",
             "content_html": "<p>The United States Social Security System is over 100 years old, and has been altered many on many occasions to keep up with the times.  This results in a complex system that means well.  </p>\n<p>If you need help navigating the system, this subreddit is overflowing with other folks who are sharing theirs tips and struggles.  Join in.</p>\n<p><a href=\"https://www.reddit.com/r/SocialSecurity/\">https://www.reddit.com/r/SocialSecurity/</a></p>\n",
-            "image": "https://demyelination.github.io/dmwl/media/posts/6/g.foolcdn.jpeg",
+            "image": "https://dmwl.isimian.com/media/posts/6/g.foolcdn.jpeg",
             "author": {
                 "name": "Jack"
             },
