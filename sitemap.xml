@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://demyelination.github.io/dmwl/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://demyelination.github.io/dmwl/</loc>
+</url>
+<url>
+<loc>https://demyelination.github.io/dmwl/discounted-internet-access.html</loc>
+<lastmod>2022-08-07T12:54:54-07:00</lastmod>
+<image:image>
+<image:loc>https://demyelination.github.io/dmwl/media/posts/7/fcc-seal-rgb-2020.svg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://demyelination.github.io/dmwl/social-security.html</loc>
+<lastmod>2022-08-07T12:18:52-07:00</lastmod>
+<image:image>
+<image:loc>https://demyelination.github.io/dmwl/media/posts/6/g.foolcdn.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

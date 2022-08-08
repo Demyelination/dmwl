@@ -1,0 +1,46 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "doing more, with less",
+    "description": "",
+    "home_page_url": "https://demyelination.github.io/dmwl",
+    "feed_url": "https://demyelination.github.io/dmwl/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jack"
+    },
+    "items": [
+        {
+            "id": "https://demyelination.github.io/dmwl/discounted-internet-access.html",
+            "url": "https://demyelination.github.io/dmwl/discounted-internet-access.html",
+            "title": "Discounted Internet Access",
+            "summary": "The Affordable Connectivity Program is an FCC benefit program that helps ensure that households can afford the broadband they need&hellip;",
+            "content_html": "<p>The Affordable Connectivity Program is an FCC benefit program that helps ensure that households can afford the broadband they need for work, school, healthcare and more.</p>\n<p>Check this link to see if you qualify for discounted internet access.</p>\n<p><a href=\"https://www.fcc.gov/acp\">https://www.fcc.gov/acp</a></p>\n",
+            "image": "https://demyelination.github.io/dmwl/media/posts/7/fcc-seal-rgb-2020.svg",
+            "author": {
+                "name": "Jack"
+            },
+            "tags": [
+                   "discounts"
+            ],
+            "date_published": "2022-08-07T12:47:49-07:00",
+            "date_modified": "2022-08-07T12:54:54-07:00"
+        },
+        {
+            "id": "https://demyelination.github.io/dmwl/social-security.html",
+            "url": "https://demyelination.github.io/dmwl/social-security.html",
+            "title": "Social Security",
+            "summary": "The United States Social Security System is over 100 years old, and has been altered many on many occasions to&hellip;",
+            "content_html": "<p>The United States Social Security System is over 100 years old, and has been altered many on many occasions to keep up with the times.  This results in a complex system that means well.  </p>\n<p>If you need help navigating the system, this subreddit is overflowing with other folks who are sharing theirs tips and struggles.  Join in.</p>\n<p><a href=\"https://www.reddit.com/r/SocialSecurity/\">https://www.reddit.com/r/SocialSecurity/</a></p>\n",
+            "image": "https://demyelination.github.io/dmwl/media/posts/6/g.foolcdn.jpeg",
+            "author": {
+                "name": "Jack"
+            },
+            "tags": [
+                   "socialsecurity",
+                   "gethelp"
+            ],
+            "date_published": "2022-08-07T12:18:52-07:00",
+            "date_modified": "2022-08-07T12:18:52-07:00"
+        }
+    ]
+}

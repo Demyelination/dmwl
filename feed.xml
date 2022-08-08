@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>doing more, with less</title>
+    <link href="https://demyelination.github.io/dmwl/feed.xml" rel="self" />
+    <link href="https://demyelination.github.io/dmwl" />
+    <updated>2022-08-07T12:54:54-07:00</updated>
+    <author>
+        <name>Jack</name>
+    </author>
+    <id>https://demyelination.github.io/dmwl</id>
+
+    <entry>
+        <title>Discounted Internet Access</title>
+        <author>
+            <name>Jack</name>
+        </author>
+        <link href="https://demyelination.github.io/dmwl/discounted-internet-access.html"/>
+        <id>https://demyelination.github.io/dmwl/discounted-internet-access.html</id>
+            <category term="discounts"/>
+
+        <updated>2022-08-07T12:54:54-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://demyelination.github.io/dmwl/media/posts/7/fcc-seal-rgb-2020.svg" alt="" />
+                    The Affordable Connectivity Program is an FCC benefit program that helps ensure that households can afford the broadband they need&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://demyelination.github.io/dmwl/media/posts/7/fcc-seal-rgb-2020.svg" alt="" />
+                <p>The Affordable Connectivity Program is an FCC benefit program that helps ensure that households can afford the broadband they need for work, school, healthcare and more.</p>
+<p>Check this link to see if you qualify for discounted internet access.</p>
+<p><a href="https://www.fcc.gov/acp">https://www.fcc.gov/acp</a></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Social Security</title>
+        <author>
+            <name>Jack</name>
+        </author>
+        <link href="https://demyelination.github.io/dmwl/social-security.html"/>
+        <id>https://demyelination.github.io/dmwl/social-security.html</id>
+            <category term="socialsecurity"/>
+            <category term="gethelp"/>
+
+        <updated>2022-08-07T12:18:52-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://demyelination.github.io/dmwl/media/posts/6/g.foolcdn.jpeg" alt="" />
+                    The United States Social Security System is over 100 years old, and has been altered many on many occasions to&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://demyelination.github.io/dmwl/media/posts/6/g.foolcdn.jpeg" alt="" />
+                <p>The United States Social Security System is over 100 years old, and has been altered many on many occasions to keep up with the times.  This results in a complex system that means well.  </p>
+<p>If you need help navigating the system, this subreddit is overflowing with other folks who are sharing theirs tips and struggles.  Join in.</p>
+<p><a href="https://www.reddit.com/r/SocialSecurity/">https://www.reddit.com/r/SocialSecurity/</a></p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>
