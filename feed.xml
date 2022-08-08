@@ -3,12 +3,36 @@
     <title>doing more, with less</title>
     <link href="https://dmwl.isimian.com/feed.xml" rel="self" />
     <link href="https://dmwl.isimian.com" />
-    <updated>2022-08-07T20:14:05-07:00</updated>
+    <updated>2022-08-07T22:07:15-07:00</updated>
     <author>
         <name>Jack</name>
     </author>
     <id>https://dmwl.isimian.com</id>
 
+    <entry>
+        <title>Refresh your computer</title>
+        <author>
+            <name>Jack</name>
+        </author>
+        <link href="https://dmwl.isimian.com/refresh-your-computer.html"/>
+        <id>https://dmwl.isimian.com/refresh-your-computer.html</id>
+
+        <updated>2022-08-07T22:07:15-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://dmwl.isimian.com/media/posts/10/Chrome-OS-Flex.jpg" alt="" />
+                    If you are a google user (google mail, drive, calendar), turn your old computer into a ChromeOS (Chromebook/Chromebox). https://www.tomshardware.com/how-to/how-to-turn-your-old-pc-into-a-new-chromebook-with-chrome-os-flex
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://dmwl.isimian.com/media/posts/10/Chrome-OS-Flex.jpg" alt="" />
+                <p>If you are a google user (google mail, drive, calendar), turn your old computer into a ChromeOS (Chromebook/Chromebox).   </p>
+<p><a href="https://www.tomshardware.com/how-to/how-to-turn-your-old-pc-into-a-new-chromebook-with-chrome-os-flex">https://www.tomshardware.com/how-to/how-to-turn-your-old-pc-into-a-new-chromebook-with-chrome-os-flex</a></p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>so you&#x27;re disabled...</title>
         <author>

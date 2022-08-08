@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://dmwl.isimian.com/refresh-your-computer.html",
+            "url": "https://dmwl.isimian.com/refresh-your-computer.html",
+            "title": "Refresh your computer",
+            "summary": "If you are a google user (google mail, drive, calendar), turn your old computer into a ChromeOS (Chromebook/Chromebox). https://www.tomshardware.com/how-to/how-to-turn-your-old-pc-into-a-new-chromebook-with-chrome-os-flex",
+            "content_html": "<p>If you are a google user (google mail, drive, calendar), turn your old computer into a ChromeOS (Chromebook/Chromebox).   </p>\n<p><a href=\"https://www.tomshardware.com/how-to/how-to-turn-your-old-pc-into-a-new-chromebook-with-chrome-os-flex\">https://www.tomshardware.com/how-to/how-to-turn-your-old-pc-into-a-new-chromebook-with-chrome-os-flex</a></p>\n",
+            "image": "https://dmwl.isimian.com/media/posts/10/Chrome-OS-Flex.jpg",
+            "author": {
+                "name": "Jack"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-08-07T22:05:33-07:00",
+            "date_modified": "2022-08-07T22:07:15-07:00"
+        },
+        {
             "id": "https://dmwl.isimian.com/welcome.html",
             "url": "https://dmwl.isimian.com/welcome.html",
             "title": "so you&#x27;re disabled...",
