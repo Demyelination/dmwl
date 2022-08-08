@@ -3,12 +3,36 @@
     <title>doing more, with less</title>
     <link href="https://dmwl.isimian.com/feed.xml" rel="self" />
     <link href="https://dmwl.isimian.com" />
-    <updated>2022-08-07T19:52:42-07:00</updated>
+    <updated>2022-08-07T20:06:55-07:00</updated>
     <author>
         <name>Jack</name>
     </author>
     <id>https://dmwl.isimian.com</id>
 
+    <entry>
+        <title>so you&#x27;re disabled...</title>
+        <author>
+            <name>Jack</name>
+        </author>
+        <link href="https://dmwl.isimian.com/welcome.html"/>
+        <id>https://dmwl.isimian.com/welcome.html</id>
+            <category term="gethelp"/>
+
+        <updated>2022-08-07T20:06:55-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://dmwl.isimian.com/media/posts/9/mealsharingapp1.jpg" alt="" />
+                    No matter how you became disabled, chances are there is a community to suport you. Let’s share ideas that will&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://dmwl.isimian.com/media/posts/9/mealsharingapp1.jpg" alt="" />
+                <p>No matter how you became disabled, chances are there is a community to suport you.  Let’s share ideas that will make our limited resources go further. </p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Medicare Explained</title>
         <author>
