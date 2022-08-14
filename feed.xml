@@ -3,12 +3,33 @@
     <title>doing more, with less</title>
     <link href="https://dmwl.isimian.com/feed.xml" rel="self" />
     <link href="https://dmwl.isimian.com" />
-    <updated>2022-08-08T10:48:10-07:00</updated>
+    <updated>2022-08-14T12:33:08-07:00</updated>
     <author>
         <name>Jack</name>
     </author>
     <id>https://dmwl.isimian.com</id>
 
+    <entry>
+        <title>Got a tip?</title>
+        <author>
+            <name>Jack</name>
+        </author>
+        <link href="https://dmwl.isimian.com/got-a-tip.html"/>
+        <id>https://dmwl.isimian.com/got-a-tip.html</id>
+
+        <updated>2022-08-14T12:33:08-07:00</updated>
+            <summary>
+                <![CDATA[
+                    I am still learning how to do more with less. If you have a tip for me, please share it&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I am still learning how to do more with less.   If you have a tip for me, please share it with me via my contact page.</p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Refresh your computer</title>
         <author>
@@ -43,7 +64,7 @@
         <id>https://dmwl.isimian.com/welcome.html</id>
             <category term="gethelp"/>
 
-        <updated>2022-08-07T20:06:55-07:00</updated>
+        <updated>2022-08-08T12:15:50-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://dmwl.isimian.com/media/posts/9/mealsharingapp1.jpg" alt="" />
@@ -53,7 +74,7 @@
         <content type="html">
             <![CDATA[
                     <img src="https://dmwl.isimian.com/media/posts/9/mealsharingapp1.jpg" alt="" />
-                <p>No matter how you became disabled, chances are there is a community to suport you.  Let’s share ideas that will make our limited resources go further. </p>
+                <p>No matter how you became disabled, chances are there is a community to suport you.  Let’s share ideas that will make our limited resources go further.   I wielcome your suggestions, tips, and comments.</p>
 
             ]]>
         </content>

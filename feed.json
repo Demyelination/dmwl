@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://dmwl.isimian.com/got-a-tip.html",
+            "url": "https://dmwl.isimian.com/got-a-tip.html",
+            "title": "Got a tip?",
+            "summary": "I am still learning how to do more with less. If you have a tip for me, please share it&hellip;",
+            "content_html": "<p>I am still learning how to do more with less.   If you have a tip for me, please share it with me via my contact page.</p>\n",
+            "author": {
+                "name": "Jack"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-08-14T12:32:55-07:00",
+            "date_modified": "2022-08-14T12:33:08-07:00"
+        },
+        {
             "id": "https://dmwl.isimian.com/refresh-your-computer.html",
             "url": "https://dmwl.isimian.com/refresh-your-computer.html",
             "title": "Refresh your computer",
@@ -29,7 +43,7 @@
             "url": "https://dmwl.isimian.com/welcome.html",
             "title": "so you&#x27;re disabled...",
             "summary": "No matter how you became disabled, chances are there is a community to suport you. Let’s share ideas that will&hellip;",
-            "content_html": "<p>No matter how you became disabled, chances are there is a community to suport you.  Let’s share ideas that will make our limited resources go further. </p>\n",
+            "content_html": "<p>No matter how you became disabled, chances are there is a community to suport you.  Let’s share ideas that will make our limited resources go further.   I wielcome your suggestions, tips, and comments.</p>\n",
             "image": "https://dmwl.isimian.com/media/posts/9/mealsharingapp1.jpg",
             "author": {
                 "name": "Jack"
@@ -38,7 +52,7 @@
                    "gethelp"
             ],
             "date_published": "2022-08-07T20:01:19-07:00",
-            "date_modified": "2022-08-07T20:06:55-07:00"
+            "date_modified": "2022-08-08T12:15:50-07:00"
         },
         {
             "id": "https://dmwl.isimian.com/medicare-explained.html",
