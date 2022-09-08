@@ -10,18 +10,51 @@
     },
     "items": [
         {
+            "id": "https://dmwl.isimian.com/always-learning.html",
+            "url": "https://dmwl.isimian.com/always-learning.html",
+            "title": "Always Learning",
+            "summary": "If you’re like me, learning has been an important part of your recovery. From discoverying new ways to care for&hellip;",
+            "content_html": "<p>If you’re like me, learning has been an important part of your recovery.  From discoverying new ways to care for yourself and others to the expansion of your self to achieve levels of recovery.  Check out these free resources</p>\n<p><a href=\"https://archive.org/details/texts\">https://archive.org/details/texts</a></p>\n",
+            "image": "https://dmwl.isimian.com/media/posts/13/shutterstock_739534918.jpg",
+            "author": {
+                "name": "Jack"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-08-28T16:35:21-07:00",
+            "date_modified": "2022-08-28T16:35:21-07:00"
+        },
+        {
+            "id": "https://dmwl.isimian.com/affordable-connectivity-program.html",
+            "url": "https://dmwl.isimian.com/affordable-connectivity-program.html",
+            "title": "AT&amp;T Affordable Connectivity Program",
+            "summary": "Many communications companies are offering discounts for essential internet services that make access possible for disabled folks. Check with your&hellip;",
+            "content_html": "<p>Many communications companies are offering discounts for essential internet services that make access possible for disabled folks.   Check with your local provider and see if they have a program like this.</p>\n<p><a href=\"https://www.att.com/help/affordable-connectivity-program/internet\">https://www.att.com/help/affordable-connectivity-program/internet</a></p>\n",
+            "image": "https://dmwl.isimian.com/media/posts/12/2827476514_c0a6498fa6.jpg",
+            "author": {
+                "name": "Jack"
+            },
+            "tags": [
+                   "gethelp",
+                   "discounts"
+            ],
+            "date_published": "2022-08-14T13:59:43-07:00",
+            "date_modified": "2022-08-14T14:19:54-07:00"
+        },
+        {
             "id": "https://dmwl.isimian.com/got-a-tip.html",
             "url": "https://dmwl.isimian.com/got-a-tip.html",
             "title": "Got a tip?",
             "summary": "I am still learning how to do more with less. If you have a tip for me, please share it&hellip;",
             "content_html": "<p>I am still learning how to do more with less.   If you have a tip for me, please share it with me via my contact page.</p>\n",
+            "image": "https://dmwl.isimian.com/media/posts/11/main-qimg-8fe3a48b9d724d05dcb01a2591e5508e-lq.jpeg",
             "author": {
                 "name": "Jack"
             },
             "tags": [
             ],
             "date_published": "2022-08-14T12:32:55-07:00",
-            "date_modified": "2022-08-14T12:33:08-07:00"
+            "date_modified": "2022-08-14T12:42:57-07:00"
         },
         {
             "id": "https://dmwl.isimian.com/refresh-your-computer.html",
@@ -85,7 +118,7 @@
                    "discounts"
             ],
             "date_published": "2022-08-07T12:47:49-07:00",
-            "date_modified": "2022-08-07T17:35:15-07:00"
+            "date_modified": "2022-08-14T13:59:52-07:00"
         },
         {
             "id": "https://dmwl.isimian.com/social-security.html",
