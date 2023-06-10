@@ -3,10 +3,30 @@
     <title>dmwl.isimian.com</title>
     <link href="https://dmwl.isimian.com/feed.xml" rel="self" />
     <link href="https://dmwl.isimian.com" />
-    <updated>1969-12-31T18:00:00-06:00</updated>
+    <updated>2023-06-10T13:09:10-05:00</updated>
     <author>
         <name>john hendricks</name>
     </author>
     <id>https://dmwl.isimian.com</id>
 
+    <entry>
+        <title>Hello World</title>
+        <author>
+            <name>john hendricks</name>
+        </author>
+        <link href="https://dmwl.isimian.com/hello-world.html"/>
+        <id>https://dmwl.isimian.com/hello-world.html</id>
+
+        <updated>2023-06-10T13:09:10-05:00</updated>
+            <summary>
+                <![CDATA[
+                    We are thrilled to announce the launch of "DiscoveringAbilities," a groundbreaking website that is dedicated to helping disabled individuals rediscover the immense value that exists within their lives. With a deep understanding of the challenges and barriers faced by this community, our platform aims to&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We are thrilled to announce the launch of "DiscoveringAbilities," a groundbreaking website that is dedicated to helping disabled individuals rediscover the immense value that exists within their lives. With a deep understanding of the challenges and barriers faced by this community, our platform aims to empower and inspire disabled individuals to embrace their unique abilities, celebrate their accomplishments, and unlock their full potential. By providing a supportive community, valuable resources, and powerful stories of resilience, "DiscoveringAbilities" is here to guide individuals on a transformative journey of self-discovery and self-worth. Join us today and embark on a path of empowerment, where every disabled life is celebrated and cherished.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
