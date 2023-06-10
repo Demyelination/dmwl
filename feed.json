@@ -1,141 +1,27 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "doing more, with less",
+    "title": "Hello World",
     "description": "",
     "home_page_url": "https://dmwl.isimian.com",
     "feed_url": "https://dmwl.isimian.com/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Jack"
+        "name": "Jack Hendricks"
     },
     "items": [
         {
-            "id": "https://dmwl.isimian.com/always-learning.html",
-            "url": "https://dmwl.isimian.com/always-learning.html",
-            "title": "Always Learning",
-            "summary": "If you’re like me, learning has been an important part of your recovery. From discoverying new ways to care for&hellip;",
-            "content_html": "<p>If you’re like me, learning has been an important part of your recovery.  From discoverying new ways to care for yourself and others to the expansion of your self to achieve levels of recovery.  Check out these free resources</p>\n<p><a href=\"https://archive.org/details/texts\">https://archive.org/details/texts</a></p>\n",
-            "image": "https://dmwl.isimian.com/media/posts/13/shutterstock_739534918.jpg",
+            "id": "https://dmwl.isimian.com/first-post.html",
+            "url": "https://dmwl.isimian.com/first-post.html",
+            "title": "First Post ",
+            "summary": "This is my first post. How does it look?",
+            "content_html": "<p>This is my first post.  How does it look?</p>",
             "author": {
-                "name": "Jack"
+                "name": "Jack Hendricks"
             },
             "tags": [
             ],
-            "date_published": "2022-08-28T16:35:21-07:00",
-            "date_modified": "2022-08-28T16:35:21-07:00"
-        },
-        {
-            "id": "https://dmwl.isimian.com/affordable-connectivity-program.html",
-            "url": "https://dmwl.isimian.com/affordable-connectivity-program.html",
-            "title": "AT&amp;T Affordable Connectivity Program",
-            "summary": "Many communications companies are offering discounts for essential internet services that make access possible for disabled folks. Check with your&hellip;",
-            "content_html": "<p>Many communications companies are offering discounts for essential internet services that make access possible for disabled folks.   Check with your local provider and see if they have a program like this.</p>\n<p><a href=\"https://www.att.com/help/affordable-connectivity-program/internet\">https://www.att.com/help/affordable-connectivity-program/internet</a></p>\n",
-            "image": "https://dmwl.isimian.com/media/posts/12/2827476514_c0a6498fa6.jpg",
-            "author": {
-                "name": "Jack"
-            },
-            "tags": [
-                   "gethelp",
-                   "discounts"
-            ],
-            "date_published": "2022-08-14T13:59:43-07:00",
-            "date_modified": "2022-08-14T14:19:54-07:00"
-        },
-        {
-            "id": "https://dmwl.isimian.com/got-a-tip.html",
-            "url": "https://dmwl.isimian.com/got-a-tip.html",
-            "title": "Got a tip?",
-            "summary": "I am still learning how to do more with less. If you have a tip for me, please share it&hellip;",
-            "content_html": "<p>I am still learning how to do more with less.   If you have a tip for me, please share it with me via my contact page.</p>\n",
-            "image": "https://dmwl.isimian.com/media/posts/11/main-qimg-8fe3a48b9d724d05dcb01a2591e5508e-lq.jpeg",
-            "author": {
-                "name": "Jack"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-08-14T12:32:55-07:00",
-            "date_modified": "2022-08-14T12:42:57-07:00"
-        },
-        {
-            "id": "https://dmwl.isimian.com/refresh-your-computer.html",
-            "url": "https://dmwl.isimian.com/refresh-your-computer.html",
-            "title": "Refresh your computer",
-            "summary": "A new computer is out of reach for many of us. I found a neat way to turn my aging&hellip;",
-            "content_html": "<p>A new computer is out of reach for many of us.   I found a neat way to turn my aging Windows Laptop into a fast Google Chromebook.   If you have a nerdy friend, ask they to help you evaluate your computer.</p>\n<p>If you are a google user (google mail, drive, calendar), turn your old computer into a ChromeOS (Chromebook/Chromebox).   </p>\n<p><a href=\"https://www.tomshardware.com/how-to/how-to-turn-your-old-pc-into-a-new-chromebook-with-chrome-os-flex\">https://www.tomshardware.com/how-to/how-to-turn-your-old-pc-into-a-new-chromebook-with-chrome-os-flex</a></p>\n",
-            "image": "https://dmwl.isimian.com/media/posts/10/Chrome-OS-Flex.jpg",
-            "author": {
-                "name": "Jack"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-08-07T22:05:33-07:00",
-            "date_modified": "2022-08-08T10:40:15-07:00"
-        },
-        {
-            "id": "https://dmwl.isimian.com/welcome.html",
-            "url": "https://dmwl.isimian.com/welcome.html",
-            "title": "so you&#x27;re disabled...",
-            "summary": "No matter how you became disabled, chances are there is a community to suport you. Let’s share ideas that will&hellip;",
-            "content_html": "<p>No matter how you became disabled, chances are there is a community to suport you.  Let’s share ideas that will make our limited resources go further.   I wielcome your suggestions, tips, and comments.</p>\n",
-            "image": "https://dmwl.isimian.com/media/posts/9/mealsharingapp1.jpg",
-            "author": {
-                "name": "Jack"
-            },
-            "tags": [
-                   "gethelp"
-            ],
-            "date_published": "2022-08-07T20:01:19-07:00",
-            "date_modified": "2022-08-08T12:15:50-07:00"
-        },
-        {
-            "id": "https://dmwl.isimian.com/medicare-explained.html",
-            "url": "https://dmwl.isimian.com/medicare-explained.html",
-            "title": "Medicare Explained",
-            "summary": "There are so many resoures available to disabled folks, but Medicare is one that should get special attention. The outline&hellip;",
-            "content_html": "<p>There are so many resoures available to disabled folks, but Medicare is one that should get special attention.  </p>\n<p>The outline of the system is well covered on Wikipedia</p>\n<p><a href=\"https://en.wikipedia.org/wiki/Medicare_(United_States)\">https://en.wikipedia.org/wiki/Medicare_(United_States)</a></p>\n<p>Here is a video explainer that outlines the different plans and how to qualify.</p>\n<p><a href=\"https://www.youtube.com/watch?v=HgCP0uQmuRw\">https://www.youtube.com/watch?v=HgCP0uQmuRw</a></p>\n",
-            "image": "https://dmwl.isimian.com/media/posts/8/index.png",
-            "author": {
-                "name": "Jack"
-            },
-            "tags": [
-                   "medicare",
-                   "gethelp"
-            ],
-            "date_published": "2022-08-07T19:46:55-07:00",
-            "date_modified": "2022-08-07T20:14:05-07:00"
-        },
-        {
-            "id": "https://dmwl.isimian.com/discounted-internet-access.html",
-            "url": "https://dmwl.isimian.com/discounted-internet-access.html",
-            "title": "Discounted Internet Access",
-            "summary": "The Affordable Connectivity Program is an FCC benefit program that helps ensure that households can afford the broadband they need&hellip;",
-            "content_html": "<p>The Affordable Connectivity Program is an FCC benefit program that helps ensure that households can afford the broadband they need for work, school, healthcare and more.</p>\n<p>Check this link to see if you qualify for discounted internet access.</p>\n<p><a href=\"https://www.fcc.gov/acp\">https://www.fcc.gov/acp</a></p>\n",
-            "image": "https://dmwl.isimian.com/media/posts/7/fcc-seal-rgb-2020.svg",
-            "author": {
-                "name": "Jack"
-            },
-            "tags": [
-                   "discounts"
-            ],
-            "date_published": "2022-08-07T12:47:49-07:00",
-            "date_modified": "2022-08-14T13:59:52-07:00"
-        },
-        {
-            "id": "https://dmwl.isimian.com/social-security.html",
-            "url": "https://dmwl.isimian.com/social-security.html",
-            "title": "Social Security",
-            "summary": "The United States Social Security System is over 100 years old, and has been altered many on many occasions to&hellip;",
-            "content_html": "<p>The United States Social Security System is over 100 years old, and has been altered many on many occasions to keep up with the times.  This results in a complex system that means well.  </p>\n<p>If you need help navigating the system, this subreddit is overflowing with other folks who are sharing theirs tips and struggles.  Join in.</p>\n<p><a href=\"https://www.reddit.com/r/SocialSecurity/\">https://www.reddit.com/r/SocialSecurity/</a></p>\n",
-            "image": "https://dmwl.isimian.com/media/posts/6/g.foolcdn.jpeg",
-            "author": {
-                "name": "Jack"
-            },
-            "tags": [
-                   "socialsecurity",
-                   "gethelp"
-            ],
-            "date_published": "2022-08-07T12:18:52-07:00",
-            "date_modified": "2022-08-08T10:48:10-07:00"
+            "date_published": "2023-04-26T20:57:37-05:00",
+            "date_modified": "2023-04-26T20:57:37-05:00"
         }
     ]
 }
