@@ -1,32 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Hello World</title>
+    <title>dmwl.isimian.com</title>
     <link href="https://dmwl.isimian.com/feed.xml" rel="self" />
     <link href="https://dmwl.isimian.com" />
-    <updated>2023-04-26T20:57:37-05:00</updated>
+    <updated>1969-12-31T18:00:00-06:00</updated>
     <author>
-        <name>Jack Hendricks</name>
+        <name>john hendricks</name>
     </author>
     <id>https://dmwl.isimian.com</id>
 
-    <entry>
-        <title>First Post </title>
-        <author>
-            <name>Jack Hendricks</name>
-        </author>
-        <link href="https://dmwl.isimian.com/first-post.html"/>
-        <id>https://dmwl.isimian.com/first-post.html</id>
-
-        <updated>2023-04-26T20:57:37-05:00</updated>
-            <summary>
-                <![CDATA[
-                    This is my first post. How does it look?
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>This is my first post.  How does it look?</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
